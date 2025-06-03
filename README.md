@@ -1,2 +1,2 @@
 # Project
-This project increase the speed of the typing.
+This project is useful for the users to increase their typing speed.
